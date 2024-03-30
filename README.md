@@ -2,16 +2,6 @@
 
 This is a Java library that allows you to handle arbitrarily large integers. The library provides a `HugeInteger` class with various methods for performing operations on large integers.
 
-## Features
-
-- Create a `HugeInteger` object with a specified length or from a string representation
-- Get the length of a `HugeInteger` object
-- Retrieve a digit at a specific index of a `HugeInteger` object
-- Compare two `HugeInteger` objects for equality, greater than, or less than
-- Assign the value of one `HugeInteger` object to another
-- Add, multiply, and divide two `HugeInteger` objects
-- Convert a `HugeInteger` object to a string representation
-
 ## Methods
 
 ### Constructor
