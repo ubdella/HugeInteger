@@ -1,4 +1,4 @@
-# Arbitrarily Large Integer Library
+# HugeInteger
 
 This is a Java library that allows you to handle arbitrarily large integers. The library provides a `HugeInteger` class with various methods for performing operations on large integers.
 
